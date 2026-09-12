@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pranshu237/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/Pranshu237/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [1929-concatenation-of-array](https://github.com/Pranshu237/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -39,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Pranshu237/LeetCode/tree/master/0242-valid-anagram) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/Pranshu237/LeetCode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
